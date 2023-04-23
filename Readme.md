@@ -1,7 +1,11 @@
 # Welcome To Airline Service
 ## Project Setup
 - clone a project on your local
+<<<<<<< HEAD
 - Execute `npm install` on the same path as of your root directory
+=======
+- Executte `npm install` on the same path as of your root directory
+>>>>>>> 23144f64c989eed7aff806c64da0bc61618e61f1
 - Create a dotenv file in root directtory and add the following environment 
 variable
     - `PORT = 3000`
@@ -19,5 +23,9 @@ following piece of json
   }
 }
 
+<<<<<<< HEAD
 ```
 - Once you've added your db config as listed above, go to src folder from your terminal and execute `npx sequelize db:create`
+=======
+```
+>>>>>>> 23144f64c989eed7aff806c64da0bc61618e61f1
